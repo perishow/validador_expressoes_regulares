@@ -22,12 +22,12 @@ Este programa foi criado em uma tarde com o objetivo de imitar uma aplicação s
 
 Para executar a versão de terminal, utilize o seguinte comando:
 
-####Linux/macOS
+**Linux/macOS**
 ```bash
 python3 reconhecedor_regex.py
 ```
 
-####Windows
+**Windows**
 ```bash
 python reconhecedor_regex.py
 ```
@@ -36,12 +36,12 @@ python reconhecedor_regex.py
 
 Para executar a versão com interface gráfica, utilize o seguinte comando:
 
-####Linux/macOS
+**Linux/macOS**
 ```bash
 python3 reconhecedor_regex_GUI.py 
 ```
 
-####Windows
+**Windows**
 ```bash
 python reconhecedor_regex_GUI.py
 
